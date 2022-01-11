@@ -9,4 +9,6 @@ export class AppComponent {
   name = 'Yashvi';
   message = 'From Hello Component';
   digit = 1;
+
+  
 }
